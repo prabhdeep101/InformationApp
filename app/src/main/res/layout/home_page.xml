@@ -89,28 +89,35 @@
                     android:focusable="true"
                     android:textSize="20dp"/>
 
+                <!-- drop down -->
                 <LinearLayout
                     android:id="@+id/learnContent"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
+                    android:background="@color/white"
                     android:visibility="gone"
                     android:paddingTop="8dp">
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Escorting is a safely focused process..."
-                        android:textColor="#FFFFFF" />
+                        android:paddingHorizontal="8dp"
+                        android:text="Escorting is a safety focused process used when tamariki (children) or rangatahi (youth) in the care or custody of Oranga Tamariki need to travel and there are concerns for their wellbeing, the safety of staff , or the public. It’s based on risk assessments that highlight potential dangers and is only used when extra care is needed to ensure the journey is secure and respectful."
+                        android:textColor="#000000" />
 
                     <Button
-                        android:id="@+id/btnLearnMore"
+                        android:id="@+id/learnMoreBtnEscorting"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="LEARN MORE"
+                        android:text="Learn More"
+                        android:background="@drawable/rounded_button"
+                        android:textColor="@android:color/white"
+                        android:layout_gravity="center_horizontal"
                         android:layout_marginTop="8dp"
-                        android:backgroundTint="#004AAD"
-                        android:textColor="#FFFFFF" />
+                        android:layout_marginBottom="8dp"
+                        android:elevation="2dp" />
+
                 </LinearLayout>
             </LinearLayout>
 
@@ -139,22 +146,34 @@
                     android:focusable="true"
                     android:textSize="20dp"/>
 
+                <!-- drop down -->
                 <LinearLayout
                     android:id="@+id/processContent"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:background="@color/white"
                     android:orientation="vertical"
                     android:visibility="gone"
                     android:paddingTop="8dp">
 
-                    <Button
+                    <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Step 1" />
+                        android:paddingHorizontal="8dp"
+                        android:text="Escorting is a safety focused process used when tamariki (children) or rangatahi (youth) in the care or custody of Oranga Tamariki need to travel and there are concerns for their wellbeing, the safety of staff , or the public. It’s based on risk assessments that highlight potential dangers and is only used when extra care is needed to ensure the journey is secure and respectful."
+                        android:textColor="#000000" />
+
                     <Button
-                        android:layout_width="match_parent"
+                        android:id="@+id/learnMoreBtnProcess"
+                        android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Step 2" />
+                        android:text="Learn More"
+                        android:background="@drawable/rounded_button"
+                        android:textColor="@android:color/white"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="8dp"
+                        android:elevation="2dp" />
                 </LinearLayout>
             </LinearLayout>
 
@@ -183,22 +202,34 @@
                     android:focusable="true"
                     android:textSize="20dp"/>
 
+                <!-- drop down -->
                 <LinearLayout
                     android:id="@+id/parentsContent"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:background="@color/white"
                     android:orientation="vertical"
                     android:visibility="gone"
                     android:paddingTop="8dp">
 
-                    <Button
+                    <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Right 1" />
+                        android:paddingHorizontal="8dp"
+                        android:text="Escorting is a safety focused process used when tamariki (children) or rangatahi (youth) in the care or custody of Oranga Tamariki need to travel and there are concerns for their wellbeing, the safety of staff , or the public. It’s based on risk assessments that highlight potential dangers and is only used when extra care is needed to ensure the journey is secure and respectful."
+                        android:textColor="#000000" />
+
                     <Button
-                        android:layout_width="match_parent"
+                        android:id="@+id/learnMoreBtnParents"
+                        android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Right 2" />
+                        android:text="Learn More"
+                        android:background="@drawable/rounded_button"
+                        android:textColor="@android:color/white"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="8dp"
+                        android:elevation="2dp" />
                 </LinearLayout>
             </LinearLayout>
 
@@ -227,22 +258,34 @@
                     android:focusable="true"
                     android:textSize="20dp"/>
 
+                <!-- drop down -->
                 <LinearLayout
                     android:id="@+id/caregiversContent"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
+                    android:background="@color/white"
                     android:visibility="gone"
                     android:paddingTop="8dp">
 
-                    <Button
+                    <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Right A" />
+                        android:paddingHorizontal="8dp"
+                        android:text="Escorting is a safety focused process used when tamariki (children) or rangatahi (youth) in the care or custody of Oranga Tamariki need to travel and there are concerns for their wellbeing, the safety of staff , or the public. It’s based on risk assessments that highlight potential dangers and is only used when extra care is needed to ensure the journey is secure and respectful."
+                        android:textColor="#000000" />
+
                     <Button
-                        android:layout_width="match_parent"
+                        android:id="@+id/learnMoreBtnCaregiver"
+                        android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Right B" />
+                        android:text="Learn More"
+                        android:background="@drawable/rounded_button"
+                        android:textColor="@android:color/white"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="8dp"
+                        android:elevation="2dp" />
                 </LinearLayout>
             </LinearLayout>
 
