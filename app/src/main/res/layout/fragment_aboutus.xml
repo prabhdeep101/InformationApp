@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_bg_tiles">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Team Image -->
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_marginTop="12dp"
+                android:scaleType="fitCenter"
+
+                android:src="@drawable/ic_team_img2"
+                android:contentDescription="Team Image"
+                />
+
+            <!-- Section 1: Nice to meet you -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:text="Nice to meet you"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="@android:color/black" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="We are The Kākāpō Guardians creating an app to support Oranga Tamariki during child safety removals. Our goal is to improve how information is shared when a child is escorted from an unsafe environment. We aim to make these difficult moments clearer and less overwhelming for everyone involved."
+                android:textSize="16sp"
+                android:textAlignment="center"
+                android:textColor="@android:color/black" />
+
+            <!-- Section 2: Our Mission -->
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:text="Our Mission"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textAlignment="textEnd"
+                android:textStyle="bold"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="24dp"
+                android:text="Our mission is to support tamariki, whānau, and staff during child safety interventions by providing clear, calm, and accessible information through our app. We want to help reduce stress and confusion, making safety-focused removals more respectful and informed."
+                android:textSize="16sp"
+                android:textAlignment="center"
+                android:textColor="@android:color/black" />
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>
