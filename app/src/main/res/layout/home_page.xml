@@ -70,26 +70,44 @@
                 android:orientation="vertical"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
                 android:background="@drawable/button_background"
                 android:padding="12dp"
                 android:layout_marginBottom="20dp">
 
-                <TextView
-                    android:id="@+id/toggleLearn"
+                <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="LEARN ABOUT ESCORTING"
-                    android:textStyle="bold"
-                    android:textColor="#FFFFFF"
-                    android:gravity="center_vertical"
-                    android:drawableEnd="@drawable/arrow_drop"
-                    android:padding="8dp"
-                    android:background="?attr/selectableItemBackground"
-                    android:clickable="true"
-                    android:focusable="true"
-                    android:textSize="20dp"/>
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <ImageView
+                        android:layout_width="35dp"
+                        android:layout_height="46dp"
+                        android:layout_marginEnd="8dp"
+                        android:src="@drawable/baseline_info_24" />
+
+                    <TextView
+                        android:id="@+id/toggleLearn"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:drawableEnd="@drawable/arrow_drop"
+                        android:focusable="true"
+                        android:gravity="center_vertical"
+                        android:padding="8dp"
+                        android:text="LEARN ABOUT ESCORTING"
+                        android:textColor="#FFFFFF"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+
 
                 <!-- drop down -->
+
                 <LinearLayout
                     android:id="@+id/learnContent"
                     android:layout_width="match_parent"
@@ -131,20 +149,35 @@
                 android:padding="12dp"
                 android:layout_marginBottom="12dp">
 
-                <TextView
-                    android:id="@+id/toggleProcess"
+                <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="PROCESS OF ESCORTING"
-                    android:textStyle="bold"
-                    android:textColor="#FFFFFF"
-                    android:gravity="center_vertical"
-                    android:drawableEnd="@drawable/arrow_drop"
-                    android:padding="8dp"
-                    android:background="?attr/selectableItemBackground"
-                    android:clickable="true"
-                    android:focusable="true"
-                    android:textSize="20dp"/>
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+                    <ImageView
+                        android:layout_width="35dp"
+                        android:layout_height="46dp"
+                        android:layout_marginEnd="8dp"
+                        android:src="@drawable/baseline_process_24" />
+
+                    <TextView
+                        android:id="@+id/toggleProcess"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="PROCESS OF ESCORTING"
+                        android:textStyle="bold"
+                        android:textColor="#FFFFFF"
+                        android:gravity="center_vertical"
+                        android:drawableEnd="@drawable/arrow_drop"
+                        android:padding="8dp"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:textSize="20dp"/>
+                </LinearLayout>
+
+
 
                 <!-- drop down -->
                 <LinearLayout
@@ -187,20 +220,35 @@
                 android:padding="12dp"
                 android:layout_marginBottom="12dp">
 
-                <TextView
-                    android:id="@+id/toggleParents"
+                <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="LEGAL RIGHTS OF PARENTS"
-                    android:textStyle="bold"
-                    android:textColor="#FFFFFF"
-                    android:gravity="center_vertical"
-                    android:drawableEnd="@drawable/arrow_drop"
-                    android:padding="8dp"
-                    android:background="?attr/selectableItemBackground"
-                    android:clickable="true"
-                    android:focusable="true"
-                    android:textSize="20dp"/>
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+                    <ImageView
+                        android:layout_width="35dp"
+                        android:layout_height="46dp"
+                        android:layout_marginEnd="8dp"
+                        android:src="@drawable/baseline_family_24" />
+
+                    <TextView
+                        android:id="@+id/toggleParents"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="LEGAL RIGHTS OF PARENTS"
+                        android:textStyle="bold"
+                        android:textColor="#FFFFFF"
+                        android:gravity="center_vertical"
+                        android:drawableEnd="@drawable/arrow_drop"
+                        android:padding="8dp"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:textSize="20dp"/>
+
+                </LinearLayout>
+
+
 
                 <!-- drop down -->
                 <LinearLayout
@@ -243,20 +291,35 @@
                 android:padding="12dp"
                 android:layout_marginBottom="12dp">
 
-                <TextView
-                    android:id="@+id/toggleCaregivers"
+                <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="LEGAL RIGHTS OF CAREGIVERS"
-                    android:textStyle="bold"
-                    android:textColor="#FFFFFF"
-                    android:gravity="center_vertical"
-                    android:drawableEnd="@drawable/arrow_drop"
-                    android:padding="8dp"
-                    android:background="?attr/selectableItemBackground"
-                    android:clickable="true"
-                    android:focusable="true"
-                    android:textSize="20dp"/>
+                    android:gravity="center_vertical">
+
+                    <ImageView
+                        android:layout_width="35dp"
+                        android:layout_height="46dp"
+                        android:layout_marginEnd="8dp"
+                        android:src="@drawable/baseline_caregiver_24" />
+
+                    <TextView
+                        android:id="@+id/toggleCaregivers"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="LEGAL RIGHTS OF CAREGIVERS"
+                        android:textStyle="bold"
+                        android:textColor="#FFFFFF"
+                        android:gravity="center_vertical"
+                        android:drawableEnd="@drawable/arrow_drop"
+                        android:padding="8dp"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:textSize="20dp"/>
+
+                </LinearLayout>
+
+
 
                 <!-- drop down -->
                 <LinearLayout
