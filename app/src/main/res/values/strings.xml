@@ -1,3 +1,36 @@
 <resources>
+
     <string name="app_name">InformationApp</string>
+
+    <!-- About Us -->
+
+    <string name="team_image_desc">Team Image</string>
+    <string name="section_1_title">Nice to meet you</string>
+    <string name="section_1_body">We are The Kākāpō Guardians creating an app to support Oranga Tamariki during child safety removals. Our goal is to improve how information is shared when a child is escorted from an unsafe environment. We aim to make these difficult moments clearer and less overwhelming for everyone involved.</string>
+    <string name="section_2_title">Our Mission</string>
+    <string name="section_2_body">Our mission is to support tamariki, whānau, and staff during child safety interventions by providing clear, calm, and accessible information through our app. We want to help reduce stress and confusion, making safety-focused removals more respectful and informed.</string>
+
+    <!-- Info 1 -->
+    <string name="info1_title">About Escorting</string>
+    <string name="info1_body">text for about escorting</string>
+
+    <!-- Info 2 -->
+    <string name="info2_title">Process of Escorting</string>
+    <string name="info2_body">text for legal escorting process</string>
+    <!-- Info 3 -->
+    <string name="info3_title">Legal Rights of Parents</string>
+    <string name="info3_body">text for legal rights of parents</string>
+    <!-- Info 4 -->
+    <string name="info4_title">Legal Rights of Caregivers</string>
+    <string name="info4_body">text for legal rights of caregivers</string>
+    <!-- Shared -->
+    <string name="label_info">For more information, head to</string>
+    <string name="link_oranga">https://practice.orangatamariki.govt.nz/</string>
+
+    <!--About kauri -->
+    <string name="about_kauri">About Kauri</string>
+    <string name="back">Back</string>
+    <string name="about">Kauri the Kākāpō is more than just a character — he represents safety, guidance, and reassurance during a time of uncertainty.\n\nKauri was raised in a protected forest where care, trust, and community were at the heart of every interaction. When he learned that some children were facing frightening or confusing situations, he became committed to supporting them with compassion and strength.\n\nNow, Kauri appears in this app as a calming, familiar presence. He helps tamariki understand what’s happening around them, offers simple explanations, and reassures them that they are not alone.\n\nThrough stories and gentle interactions, Kauri promotes a sense of emotional safety while respecting each childs unique experience. Though he is small, Kauri symbolizes <b>courage, empathy, and resilience</b> — values we hope to share with every child and their whānau during challenging transitions.</string>
+
+
 </resources>

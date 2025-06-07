@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name">Taupānga Pārongo</string>
+
+    <!-- About Us -->
+
+    <string name="team_image_desc">Atahanga o te Rōpū</string>
+    <string name="section_1_title">He pai te tūtaki ki a koe</string>
+    <string name="section_1_body">Ko mātou ngā Kaitiaki o te Kākāpō, e waihanga ana i tētahi taupānga hei tautoko i a Oranga Tamariki i ngā wā e tango haumaru ana i tētahi tamaiti. Ko tā mātou whāinga, he whakapai ake i te tuku pārongo i ēnei wā uaua. E hiahia ana mātou kia māmā ake, kia mārama ake hoki ngā āhuatanga mō te katoa e pāngia ana.</string>
+    <string name="section_2_title">To mātou Aronga</string>
+    <string name="section_2_body">Ko tā mātou aronga, he tautoko i ngā tamariki, ngā whānau me ngā kaimahi i te wā e tū ana ngā mahi tango haumaru, mā te tuku pārongo mārama, māhaki, me te māmā ki te mārama. E whai ana mātou kia whakaiti i te pōkaikaha me te rangirua, kia ārahina ngā tango haumaru ki te whakakorikori i te tangata, ā, kia whai mōhiotanga anō hoki.</string>
+
+    <!-- Info 1 -->
+    <string name="info1_title">Mō te Ārahi</string>
+    <string name="info1_body">Tukua tō kōrero Māori katoa ki konei...</string>
+
+    <!-- Info 2 -->
+    <string name="info2_title">Te Hātepe o te Ārahi</string>
+    <string name="info2_body">Mi translation of porocess</string>
+
+    <!-- Info 3 -->
+    <string name="info3_title">Ngā Tika Ture o ngā Mātua</string>
+    <string name="info3_body">Mi translation of legal rights parents</string>
+
+    <!-- Info 4 -->
+    <string name="info4_title">Ngā Tika Ture o ngā Kaitiaki</string>
+    <string name="info4_body">mi translation of legal rights caregivers</string>
+
+    <!-- Shared -->
+    <string name="label_info">Mō ētahi atu pārongo, toro atu ki</string>
+    <string name="link_oranga">https://practice.orangatamariki.govt.nz/</string>
+
+    <!--ABout Kauri -->
+    <string name="about_kauri">Mō Kauri</string>
+    <string name="back">Hoki</string>
+    <string name="about">Ehara a Kauri te Kākāpō i te tohu noa iho — he tohu ia mō te haumaru, te ārahitanga, me te whakamarie i ngā wā pōkaikaha.\n\nI tipu ake a Kauri i tētahi ngahere haumaru, i reira ka manaakitia, ka tiakina tētahi ki tētahi. I te rongonga ia e raru ana ētahi tamariki, ka whakatau ia ki te tautoko mā te aroha me te māia.\n\nI tēnei taupānga, ka puta a Kauri hei hoa, hei pou tautoko mō ngā tamariki. Ka āwhina ia ki te whakamārama i ngā āhuatanga e pā ana, me te whakawhiwhi i te māramatanga me te rangimārie.\n\nMā ana kōrero me ngā pāhekoheko māmā, ka whakapūmau a Kauri i te haumaru ā-wairua, ā, ka whakaute hoki i ngā wheako motuhake a ia tamaiti. Ahakoa he iti a Kauri, he tohu ia mō te <b>māia, te ngākau aroha, me te manawaroa</b> — ngā uara e hiahia ana mātou ki te whakawhiti atu ki ngā tamariki me ō rātou whānau i ēnei wā uaua.</string>
+
+
+</resources>
