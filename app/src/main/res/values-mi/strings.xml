@@ -20,11 +20,12 @@
 
     <!-- Info 3 -->
     <string name="info3_title">Ngā Tika Ture o ngā Mātua</string>
-    <string name="info3_body">Mi translation of legal rights parents</string>
+    <string name="info3_body">Ina ka tīmata a Oranga Tamariki i te tukanga ārahi i te tamaiti (child) me te rangatahi (young person) i tō rātou taiao tiaki ināianei, he mea nui kia mārama ngā mātua ki ā rātou tika ā-ture. \n\nTika ki te mōhio wawe\nHe tika ā ngā mātua kia whakamōhiotia wawe mēnā ka whakatau te whakahaere ārahi, tae atu ki ngā take me ngā mahi tuatahi kua mahia. He tika hoki ā rātou ki te whai mōhiohio mō te tukanga, pēnei i ngā arotake me ngā mahere e pā ana ki tō rātou tamaiti.\n\nTika ki te whai wāhi ki ngā whakatau\nKa mau tonu te mana ā ngā mātua ki te whai wāhi ki ngā whakatau nui e pā ana ki te oranga o tō rātou tamaiti, mēnā kāore he whakatau a te kōti. Ka whai wāhi hoki rātou ki ngā Hui ā-Whānau (FGCs), ka whakakotahitia ngā whānau me ngā mātanga ki te whakatau i ngā mea pai mō te tamaiti.\n\nTika ki te whai māngai ā-ture\nHe tika hoki kia whai māngai ā-ture ngā mātua. Ka taea e rātou te rapu tohutohu ā-ture, ā, mēnā e tika ana, ka taea te tono mō te āwhina ā-ture hei tautoko i a rātou i roto i tēnei tukanga.\n\nTika ki te whakahē i ngā whakatau\nMēnā kāore i whakaae ngā mātua ki tētahi whakatau, he tika ki a rātou te whakahē i roto i te Kōti Whānau. Ka taea pea te arotake i ngā whakaritenga tiaki, te tono whakatau anō rānei i roto i ngā wā tika o te ture.\n\nTika ki te pupuri i te whakawhitinga kōrero\nHe tika hoki kia mau tonu te hononga o ngā mātua ki tō rātou tamaiti, i runga i te painga o te tamaiti. I ētahi wā, ka āta tirohia ngā haerenga hei tiaki i te haumaru o te tamaiti.\n\nTika ki ngā ratonga tautoko\nKei te wātea hoki ngā ratonga tautoko hei āwhina i ngā mātua ki te ārai i te pānga ā-hinengaro o tēnei āhuatanga. Ka taea pea te whai āwhina ā-whakaaro me ngā hōtaka mō te mātauranga mātua, hei tautoko i te whāinga kia hoki tahi te whānau.</string>
+
 
     <!-- Info 4 -->
     <string name="info4_title">Ngā Tika Ture o ngā Kaitiaki</string>
-    <string name="info4_body">mi translation of legal rights caregivers</string>
+    <string name="info4_body">mi translation of legal rights of caregivers</string>
 
     <!-- Shared -->
     <string name="label_info">Mō ētahi atu pārongo, toro atu ki</string>

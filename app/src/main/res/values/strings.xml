@@ -12,14 +12,60 @@
 
     <!-- Info 1 -->
     <string name="info1_title">About Escorting</string>
-    <string name="info1_body">text for about escorting</string>
+    <string name="info1_body">
+Escorting is the process where tamariki or rangatahi are removed, relocated, or uplifted from their current place of care due to safety concerns or other legal reasons.\n\n
+
+Types of Escorts:\n
+\u2022 Emergency Escorting – Happens when a child is in immediate danger.\n
+\u2022 Planned Escorting – Occurs after assessments and coordination with caregivers and authorities.\n
+\u2022 Temporary Escorting – When a child is relocated temporarily for their well-being.\n
+\u2022 Custodial Escorting – Escorting done when Oranga Tamariki becomes the legal custodian.\n\n
+
+Expanded:\n\n
+Learn About Escorting\n
+Understanding the process of escorting is crucial for parents and caregivers involved with Oranga Tamariki. Escorting refers to the supervised movement of tamariki (children) and rangatahi (young people) from one location to another, ensuring their safety and well-being during transitions.\n\n
+
+1. What is Escorting?\n
+Escorting involves the planned and supervised transportation of tamariki or rangatahi, particularly when:\n
+\u2022 They are moving to or from a youth justice residence, remand home, or care and protection residence.\n
+\u2022 They are traveling by air as part of their transition.\n
+\u2022 A risk assessment indicates that escorting is necessary to ensure their safety and well-being.\n
+The primary goal is to safeguard the oranga (well-being) of the child or young person, the escorting staff (kaimahi), and the public during transit.\n\n
+
+2. When is Escorting Required?\n
+Escorting is mandated in situations where:\n
+\u2022 The environment poses identified risks to the tamaiti or rangatahi.\n
+\u2022 The child or young person is in the custody of Oranga Tamariki and requires transportation to a different care setting.\n
+\u2022 A risk assessment determines that escorting is necessary for safe travel.\n
+It\'s important to note that escorting is not required when:\n
+\u2022 Another agency, such as the Police or Department of Corrections, has assumed responsibility for the child\'s transportation.\n
+\u2022 The child is being collected by whānau or family from a residence to return home or to a community placement.\n\n
+
+3. Escorting Procedures and Considerations\n
+Key aspects of the escorting process include:\n
+\u2022 Authorization: Escorts must be approved by the relevant authorizing manager, such as a team leader or site manager.\n
+\u2022 Escort Personnel: Typically, at least two trained escort kaimahi accompany the child, with considerations for gender matching and specific needs.\n
+\u2022 Risk Assessment: A thorough assessment is conducted to identify potential risks and determine the appropriate escorting measures.\n
+\u2022 Communication: Wherever possible, tamariki or rangatahi and their whānau are informed about the escorting plans, including the destination and reasons for the move.\n
+\u2022 Alternative Options: Video conferencing may be considered as an alternative to physical escorting, especially for court appearances or appointments, to minimize stress and logistical challenges.\n\n
+
+4. Ensuring the Well-being of Tamariki and Rangatahi\n
+Throughout the escorting process, the following principles are upheld:\n
+\u2022 Manaakitanga: Respecting the dignity and mana of the child or young person.\n
+\u2022 Safety: Implementing measures to ensure the physical and emotional safety of all parties involved.\n
+\u2022 Transparency: Providing clear and timely information to tamariki or rangatahi and their families, unless doing so poses a risk.\n
+\u2022 Cultural Sensitivity: Recognizing and accommodating the cultural needs and preferences of the child or young person.
+</string>
+
 
     <!-- Info 2 -->
     <string name="info2_title">Process of Escorting</string>
     <string name="info2_body">text for legal escorting process</string>
     <!-- Info 3 -->
     <string name="info3_title">Legal Rights of Parents</string>
-    <string name="info3_body">text for legal rights of parents</string>
+    <string name="info3_body">When Oranga Tamariki begins the process of escorting a tamaiti (child) or rangatahi (young person) from their current care environment, it is essential that parents understand their legal rights.\n\nRight to Be Informed\nParents have the right to be promptly informed when an escorting decision is made, including the reasons and any immediate actions. They are entitled to access relevant information about the process, such as assessments and plans concerning their child.\n\nRight to Participate in Decision-Making:\nParents also retain the right to be involved in major decisions affecting their child\'s life, unless a court decides otherwise. This includes participation in Family Group Conferences (FGCs), where family, whānau, and professionals collaborate to make decisions in the child\'s best interest.\n\nRight to Legal Representation:\nLegal representation is another key right. Parents can seek legal advice and, if eligible, access legal aid to support them during this process.\n\nRight to Challenge Decisions:\nIf parents disagree with a decision, they have the right to challenge it in Family Court. This may involve reviewing custody arrangements or appealing decisions within the legal timeframes.\n\nRight to Maintain Contact:\nAdditionally, parents have the right to maintain contact with their child, depending on what is in the child\'s best interest. In some cases, contact may be supervised for safety reasons.\n\nRight to Support Services:\nSupport services are also available to help parents cope with the emotional impact of the situation. These services may include counseling and parenting programs, which can assist in addressing concerns and supporting the goal of reunification.</string>
+
+
     <!-- Info 4 -->
     <string name="info4_title">Legal Rights of Caregivers</string>
     <string name="info4_body">text for legal rights of caregivers</string>
